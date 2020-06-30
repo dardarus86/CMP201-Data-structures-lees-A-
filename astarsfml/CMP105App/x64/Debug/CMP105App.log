@@ -1,0 +1,16 @@
+﻿  Child.cpp
+  Animation.cpp
+  Collision.cpp
+  GameState.cpp
+  Input.cpp
+  GameObject.cpp
+  TileMap.cpp
+  Vector.cpp
+  Level.cpp
+F:\C++\201stuff\201stuff\CMP201jamiehaddow\astarsfml\CMP105App\Level.cpp(155,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Main.cpp
+  Generating Code...
+F:\C++\201stuff\201stuff\CMP201jamiehaddow\astarsfml\CMP105App\Level.cpp(155,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(487,5): warning MSB8015: All source files are not up-to-date:  forcing a rebuild of all source files due to the contents of 'F:\C++\201stuff\201stuff\CMP201jamiehaddow\astarsfml\CMP105App\x64\Debug\CMP105App.tlog\CL.command.1.tlog' being invalid.
+LINK : warning LNK4076: invalid incremental status file 'F:\C++\201stuff\201stuff\CMP201jamiehaddow\astarsfml\x64\Debug\CMP105App.ilk' (which will be deleted); linking nonincrementally
+F:\C++\201stuff\201stuff\CMP201jamiehaddow\astarsfml\x64\Debug\CMP105App.pdb : fatal error LNK1318: Unexpected PDB error; FORMAT (11) 'F:\C++\201stuff\201stuff\CMP201jamiehaddow\astarsfml\x64\Debug\CMP105App.pdb'
